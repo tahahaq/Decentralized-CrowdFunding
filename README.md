@@ -6,9 +6,9 @@ To Run
 
 Clone the project 
 
-Run npm install
+Run "npm install"
 
-Run "npm run dev" from the root directory-
+Run "npm run dev" from the root directory
 
 Profit!
 
