@@ -2,7 +2,7 @@
 
 A Decentralized CrowdFunding Application built using smart contracts , react and next.js-
 
-To run 
+To Run 
 
 Clone the project 
 
